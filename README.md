@@ -31,7 +31,6 @@ Starter kit for creating restfull api using [Nest](https://github.com/nestjs/nes
 ## Includes
 
 -   [x] Crud
--   [x] ORM - Typeorm
 -   [x] Guards - Auth and Role Guard
 -   [x] Pipes - Validation Pipe
 -   [x] Decorators - Auth and Role
